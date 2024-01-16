@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.zhangwenshan001.demo.DemoHelloworldApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-16T14:28:21" hostname="IT-JPN-30612" time="0.407">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.zhangwenshan001.demo.DemoHelloworldApplicationTests" time="0.407"/>
+  <system-out><![CDATA[23:28:20.848 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.zhangwenshan001.demo.DemoHelloworldApplicationTests]: DemoHelloworldApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+23:28:20.890 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.zhangwenshan001.demo.DemoHelloworldApplication for test class com.zhangwenshan001.demo.DemoHelloworldApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.1)
+
+2024-01-16T23:28:21.039+09:00  INFO 98131 --- [    Test worker] c.z.demo.DemoHelloworldApplicationTests  : Starting DemoHelloworldApplicationTests using Java 17.0.8 with PID 98131 (started by wezhang in /Users/wezhang/wenshan/spring-boot-demo-gradle/demo-helloworld)
+2024-01-16T23:28:21.040+09:00  INFO 98131 --- [    Test worker] c.z.demo.DemoHelloworldApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2024-01-16T23:28:21.490+09:00  INFO 98131 --- [    Test worker] c.z.demo.DemoHelloworldApplicationTests  : Started DemoHelloworldApplicationTests in 0.545 seconds (process running for 0.975)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
