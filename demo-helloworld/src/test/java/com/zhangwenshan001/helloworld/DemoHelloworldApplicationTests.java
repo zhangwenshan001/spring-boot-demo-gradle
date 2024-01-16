@@ -1,4 +1,4 @@
-package com.zhangwenshan001.demo;
+package com.zhangwenshan001.helloworld;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

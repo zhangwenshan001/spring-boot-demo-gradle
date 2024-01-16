@@ -1,4 +1,4 @@
-package com.zhangwenshan001.demo;
+package com.zhangwenshan001.helloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
