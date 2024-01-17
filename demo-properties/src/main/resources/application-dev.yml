@@ -1,0 +1,7 @@
+application:
+  name: dev env @artifactId@
+  version: dev env @version@
+developer:
+  name: dev env zhangwenshan001
+  website: dev env website
+  phone-number: ""

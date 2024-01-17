@@ -1,0 +1,7 @@
+application:
+  name: prod env @artifactId@
+  version: prod env @version@
+developer:
+  name: prod env zhangwenshan001
+  website: prod env website
+  phone-number: ""
